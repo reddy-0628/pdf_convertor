@@ -5,6 +5,7 @@
 1.Make sure Python 3.7+ is installed.
 
 2.Use a virtual environment for isolation:
+
 python3 -m venv venv
 
 source venv/bin/activate  # On Linux/Mac
@@ -26,7 +27,9 @@ python3  main.py
 1.Install Node.js and npm if not installed.
 
 2.Navigate to the frontend directory and install dependencies:
+
 cd frontend
+
 npm install
 
 3.Start the React development server:
