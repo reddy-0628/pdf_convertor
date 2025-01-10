@@ -22,7 +22,7 @@ sudo apt-get install libreoffice
 python3  main.py
 
 
-# frontend (React):
+# Frontend (React):
 
 1.Install Node.js and npm if not installed.
 
